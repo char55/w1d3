@@ -21,7 +21,7 @@ var companySalesData = [
     province: "SK",
     sales: [ 500, 100 ],
   }
-]
+];
 
 
 
